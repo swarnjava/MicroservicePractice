@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Test1_EurekaClient1
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: 717753
+Implementation-Vendor-Id: Test1_EurekaClient1
+Build-Jdk: 1.8.0_191
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/Test1_EurekaClient1
+Created-By: Maven Integration for Eclipse
+

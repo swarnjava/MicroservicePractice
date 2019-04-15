@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Test1_EurekaProxy
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: 717753
+Implementation-Vendor-Id: Test1_EurekaProxy
+Build-Jdk: 1.8.0_191
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/Test1_EurekaProxy
+Created-By: Maven Integration for Eclipse
+
